@@ -1,0 +1,1 @@
+# aysenur_gezgin_bright_akademi_projesi
