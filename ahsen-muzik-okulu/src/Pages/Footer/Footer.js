@@ -1,12 +1,16 @@
 import React from 'react'
-import { Alert } from 'react-bootstrap';
+import { Alert, Container } from 'react-bootstrap';
 
 const Footer = () => {
   return (
     <>
+    
     <Alert variant='dark'>
-        Müzik ruhun gıdası
+      <Container>
+        Müzik ruhun gıdasıdır.
+        </Container>
     </Alert>
+    
     </>
   )
 }
