@@ -10,6 +10,7 @@ const ContactPage = () => {
         <div className='col-md-6'>
           <ContactMap/>
         </div>
+       
 
         <div className='col-md-6'>
           <ContactForm/>

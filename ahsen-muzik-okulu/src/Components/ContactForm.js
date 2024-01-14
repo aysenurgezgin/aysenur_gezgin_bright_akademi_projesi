@@ -4,7 +4,9 @@ import { Container } from 'react-bootstrap';
 
 const ContactForm = () => {
   return (
+
     <>
+     
   <div className='container px-3 py-4 m-3 border border-success mx-auto'>
         <h2 className='text-center'>Başvuru Formu</h2>
         <form className="row g-4">
