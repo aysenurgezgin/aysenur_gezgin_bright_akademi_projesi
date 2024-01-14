@@ -19,10 +19,10 @@ function App() {
     <Header />
      <Routes>
         <Route path="/" element={<HomePage />} />
-        <Route path="/İletişim sayfası" element={<ContactPage />} />
-        <Route path="/Hakkımızda sayfası" element={<AboutUsPage />} />
-        <Route path="/Eğitimler sayfası" element={<TrainingPage />} />
-        <Route path="/Eğitmenler sayfası" element={<InstructorsPage />} />
+        <Route path="/ContactPage" element={<ContactPage />} />
+        <Route path="/AboutUsPage" element={<AboutUsPage />} />
+        <Route path="/TrainingPage" element={<TrainingPage />} />
+        <Route path="/InstructorPage" element={<InstructorsPage />} />
        
      </Routes>
       <Footer />

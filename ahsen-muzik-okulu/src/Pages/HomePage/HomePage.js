@@ -10,6 +10,7 @@ const HomePage = () => {
           <p className='display-6 text-dark text-center'> Kaliteli müziğin adresi</p>
           </div>
         </Container>
+        
      </>
   )
 }
